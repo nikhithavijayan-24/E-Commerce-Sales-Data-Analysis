@@ -95,17 +95,3 @@ Successfully transformed raw e-commerce datasets into structured, analysis-ready
 This project strengthened my practical understanding of **Microsoft Excel, data preparation, exploratory analysis, and business intelligence concepts**.
 
 ---
-
-### 👩‍💻 Connect With Me
-
-**Aspiring Data Analyst | Continuous Learner**
-
-I'm continuously developing my skills in Data Analytics and exploring tools such as **Microsoft Excel, Power BI, Python, MySQL, and Pandas**.
-
-🔗 **LinkedIn:** [Add Your LinkedIn Profile](https://www.linkedin.com/)\
-💻 **GitHub:** [Explore My Projects](https://github.com/)
-
-⭐ If you find this project interesting, feel free to explore my repository!
-
-### **GitHub presentation tips**
-
